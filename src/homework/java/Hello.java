@@ -25,7 +25,7 @@ public class Hello {
         }
 
         // Вывод значений
-        System.out.print("Duplicate characters are: ");
+        System.out.print("Повторяющиеся символы: ");
         for (Character duplicatedChar : duplicatedChars) {
             System.out.print(duplicatedChar + " ");
         }
